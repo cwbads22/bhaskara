@@ -10,4 +10,4 @@ Parte matemática teórica em:
 https://brasilescola.uol.com.br/matematica/passo-passo-para-construcao-grafico-funcao-segundo-grau.htm<br>
 <br>
 Código rodando em:
-https://replit.com/@cwbads22/Formula-de-Bhaskara
+https://colab.research.google.com/drive/1TZIBt0c0FW19SYB1zeoTE0LYwe2oVn2x?usp=sharing
